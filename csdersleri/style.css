@@ -1,0 +1,35 @@
+/*body{
+	background-image: url(test.jpg);
+	background-repeat: no-repeat;
+	background-size: 300px 350px;
+	background-attachment: fixed;	
+	background-position: bottom;
+	background-color: red;
+}*/
+/*.reng
+{
+ text-decoration: overline;	
+ font-family: cursive;
+ font-size: 30px;	
+  letter-spacing: 20px;
+
+  word-spacing: 30px;
+}	
+.rengefw{
+}*/	
+
+
+
+h1
+{
+	border-top-style: dotted;
+	border-top-color: coral;
+}
+.qutu
+{
+	width: 300px;
+	height: 70px;
+	background-color:red;	
+	display: inline-block;	
+}
+
